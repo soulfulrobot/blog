@@ -24,6 +24,8 @@ So, here are some details on what are my current situation and my plans.
 
 - Release at least one game for mobile platforms and see if I like it or if I can make any income with game development. This will probably be hard because I'm not fond of the modern "slot-machine" game development style.
 
+- Learn and use TensorFlow in at least one project.
+
 - Learn how to make music, I have some experience playing instruments and working with DAWs, but most are forgotten or never properly learned. This is more of a hobby goal, but it has the potential to be commercial, you never fully know what to expect from yourself 😊
 
 - Give back, meet new people, share my knowledge, become a part of a bigger professional community than working for small to medium companies usually lets you.
