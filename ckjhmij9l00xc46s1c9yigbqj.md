@@ -12,7 +12,7 @@ So, here are some details on what are my current situation and my plans.
 
 - I know how to write almost anything with TypeScript and I have about 10 years of c# development in past. Have some technical management experience too.
 - I have a comfortable rainy-day fund that will last me more than a year, although thoughts about employment income that I will be missing next year make me not so comfortable.
-- I thought myself how to safely trade the stock market in the last 2 years, have been actually quite profitable and consistent for the last year, but I don't count on it continuing to be amazing all the time. First of all, full-time trading is hard and not exactly what I would like to do, second - there is risk attached to it and while I learned how not to blow up my account, I still can't be sure I can always make living trading stocks. One project that is attached to trading though is algo-trading, and I will be exploring that for sure.
+- I taught myself how to safely trade the stock market in the last 2 years, have been actually quite profitable and consistent for the last year, but I don't count on it continuing to be amazing all the time. First of all, full-time trading is hard and not exactly what I would like to do, second - there is risk attached to it and while I learned how not to blow up my account, I still can't be sure I can always make living trading stocks. One project that is attached to trading though is algo-trading, and I will be exploring that for sure.
 
 **This year I want to**
 
