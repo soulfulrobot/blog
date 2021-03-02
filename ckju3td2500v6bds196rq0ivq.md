@@ -1,7 +1,5 @@
 ## Day 10 of 365. Discipline, planning, anxiety.
 
-[0 customers, $0]
-
 10 days since the first post, wow, I managed to achieve so little of what is really important. But I needed a little rest and time to do some chores and errands, time to see friends and gather my thoughts.
 
 I joined the YC startup school, not planning to apply to YC, but definitely useful to learn all the things they have to offer. Plus, using their weekly reporting tool as someone kindly suggested in comments. We'll see where this goes.
